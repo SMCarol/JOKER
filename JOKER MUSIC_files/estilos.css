@@ -1,0 +1,40 @@
+body{
+    margin: 0%;
+}
+.logo{
+    background-color: black;
+    text-align: center;
+      
+}
+.a{
+    color: #049070;
+}
+header{  
+   
+}
+.card {
+    margin-top: 50px;
+}
+.card-title{
+    color: #049070;
+}
+.muted{
+    color: #EB0030;
+    text-align: center;
+    margin-top: 15px;
+}
+.card-body{
+    background-color: #F9FFF3;
+    border:0px;
+}
+
+.rounded-circle{
+    margin-top: 20px;
+}
+.py-3{
+    background-color: #049070;
+
+}
+.bb{
+    color: white;
+}
